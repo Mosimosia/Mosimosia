@@ -1,138 +1,210 @@
 <div align="center">
 
-<!-- Banner با انیمیشن موجی -->
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:ff6b6b,50:4834d4,100:130f40&height=200&section=header&text=مصطفی%20نیلفروشان&fontSize=40&fontColor=ffffff&animation=scale&fontAlign=50)
+<!-- Animated Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b6b,30:4834d4,60:130f40,90:00b894&height=250&section=header&text=Mostafa%20Nilforoushan&fontSize=50&fontColor=ffffff&animation=twinkling" />
 
-<!-- آواتار متحرک -->
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<!-- Animated Avatar -->
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 
-<!-- عنوان با انیمیشن تایپ -->
+<!-- Typing Animation -->
 <h1>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-  سلام، من مصطفی نیلفروشان هستم
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  Hi, I'm Mostafa Nilforoushan
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
 </h1>
 
-<!-- زیرعنوان با افکت -->
+<!-- Animated Subtitle -->
 <h3>
   🚀 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&color=FFD700&center=true&vCenter=true&width=500&height=50&lines=توسعه+دهنده+Frontend;عاشق+هوش+مصنوعی;گیمر+حرفه+ای;متخصص+تکنولوژی" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&color=FFD700&center=true&vCenter=true&width=600&height=50&lines=Full+Stack+Developer;AI+Enthusiast;Professional+Gamer;Tech+Specialist" alt="Typing SVG">
   🎮
 </h3>
 
-<!-- بجهای متحرک -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Mosimosia&label=بازدید+از+پروفایل&color=blueviolet&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/badge/متولد-۱۳۷۷-blue?style=for-the-badge&logo=star&logoColor=white" />
-  <img src="https://img.shields.io/badge/اصفهان-ایرann-success?style=for-the-badge&logo=location&logoColor=white" />
-</p>
-
+<!-- Animated Badges -->
+<div>
+  <img src="https://komarev.com/ghpvc/?username=Mosimosia&label=Profile+Views&color=blueviolet&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Born-1998-blue?style=flat-square&logo=star&logoColor=white" />
+  <img src="https://img.shields.io/badge/Isfahan-Iran-success?style=flat-square&logo=location&logoColor=white" />
+  <img src="https://img.shields.io/badge/Age-26-orange?style=flat-square&logo=calendar&logoColor=white" />
 </div>
 
-<!-- مارپیچ مهارت‌ها -->
-<div align="center">
-
-## 🛠️ مهارت‌های فنی
-
-<!-- مهارت‌های چرخشی -->
-<img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode&theme=dark&perline=7" />
+</div>
 
 <br/>
 
-<!-- نمودار دایره‌ای مهارت‌ها -->
-![HTML](https://img.shields.io/badge/HTML-Expert-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-Expert-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-Intermediate-61DAFB?style=flat-square&logo=react&logoColor=black)
+<!-- Skills Section -->
+<div align="center">
 
-<!-- مهارت‌های خاص با پروگرس بار -->
-<p>
-  <img src="https://img.shields.io/badge/هوش%20مصنوعی-۹۰%25-FF6B6B?style=for-the-badge&logo=ai&logoColor=white" />
-  <img src="https://img.shields.io/badge/گیمینگ-۱۰۰%25-9B59B6?style=for-the-badge&logo=game&logoColor=white" />
-  <img src="https://img.shields.io/badge/سخت%20افزار-۹۵%25-E67E22?style=for-the-badge&logo=hardware&logoColor=white" />
-</p>
+## 🛠️ Tech Stack & Skills
+
+<!-- Main Skills -->
+<div align="center">
+
+### 💻 Frontend Development
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,sass,redux,webpack,bootstrap&theme=dark&perline=10" />
+
+<br/>
+
+### ⚡ Backend & Tools
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,git,github,vscode,figma,ps,ai&theme=dark&perline=9" />
 
 </div>
 
-<!-- آمارهای متحرک -->
+<br/>
+
+<!-- Detailed Skills Grid -->
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
+      <br>SASS/SCSS
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+      <br>CSS3
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+      <br>VS Code
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- Skill Levels -->
+<div>
+  <img src="https://img.shields.io/badge/React-85%25-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-90%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-75%25-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-80%25-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/SASS-85%25-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+</div>
+
+</div>
+
+<br/>
+
+<!-- GitHub Stats -->
 <div align="center">
 
-## 📊 آمارهای زنده گیت‌هاب
+## 📊 GitHub Analytics
 
-<!-- شبکه آمار -->
+<div align="center">
+  
+<!-- Stats Grid -->
 <a href="https://github.com/Mosimosia">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mosimosia&show_icons=true&theme=radical&locale=fa&include_all_commits=true&count_private=true&bg_color=0D1117&border_radius=10&animation=grow" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mosimosia&layout=compact&theme=radical&locale=fa&bg_color=0D1117&border_radius=10&animation=fadeIn" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mosimosia&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0D1117&border_radius=15&animation=grow" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mosimosia&layout=compact&theme=radical&bg_color=0D1117&border_radius=15&animation=fadeIn" />
 </a>
 
-<!-- استریک با انیمیشن -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mosimosia&theme=radical&locale=fa&background=0D1117&border_radius=10&animation=pulse" />
+<br/>
 
-<!-- نمودار فعالیت -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mosimosia&theme=react-dark&bg_color=0D1117&color=FFFFFF&line=FF6B6B&point=FFFFFF&area=true&hide_border=true&custom_title=فعالیت%های%کدنویسی" />
+<!-- Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mosimosia&theme=radical&background=0D1117&border_radius=15&animation=pulse" />
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mosimosia&theme=react-dark&bg_color=0D1117&color=FFFFFF&line=FF6B6B&point=FFFFFF&area=true&hide_border=true&custom_title=My%20Coding%20Activity" />
 
 </div>
 
-<!-- کارت‌های متحرک -->
+</div>
+
+<br/>
+
+<!-- Gaming Section -->
 <div align="center">
 
-## 🎯 حوزه‌های تخصصی
+## 🎮 Gaming & Hobbies
 
-<!-- شبکه کارت‌ها -->
+<!-- Gaming Badges -->
+<div>
+  <img src="https://img.shields.io/badge/CS:GO-Professional-FA9600?style=for-the-badge&logo=steam&logoColor=white" />
+  <img src="https://img.shields.io/badge/Battlefield-Veteran-00B2FF?style=for-the-badge&logo=origin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Call%20of%20Duty-Elite-FF0000?style=for-the-badge&logo=blizzard&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mobile%20Legend-Mythic-FFD700?style=for-the-badge&logo=android&logoColor=black" />
+</div>
+
+<br/>
+
+<!-- Game Categories -->
 <table>
   <tr>
-    <td align="center" width="200">
-      <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="80">
+    <td align="center" width="300">
+      <h3>🎯 Online Games</h3>
+      <img src="https://media.giphy.com/media/X93ZikdSd9Tji/giphy.gif" width="120" height="90">
       <br/>
-      <strong>Frontend</strong>
+      <img src="https://img.shields.io/badge/CS:GO-Global%20Elite-FA9600?style=flat-square" />
       <br/>
-      <img src="https://img.shields.io/badge/React-JS-CSS-61DAFB?style=flat-square">
+      <img src="https://img.shields.io/badge/Battlefield-1000h+-00B2FF?style=flat-square" />
+      <br/>
+      <img src="https://img.shields.io/badge/COD:Warzone-Pro-FF0000?style=flat-square" />
+      <br/>
+      <img src="https://img.shields.io/badge/MLBB-Mythic-FFD700?style=flat-square" />
     </td>
-    <td align="center" width="200">
-      <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="80">
+    <td align="center" width="300">
+      <h3>🏆 Offline Games</h3>
+      <img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="120" height="90">
       <br/>
-      <strong>هوش مصنوعی</strong>
+      <img src="https://img.shields.io/badge/God%20of%20War-100%25-E67E22?style=flat-square" />
       <br/>
-      <img src="https://img.shields.io/badge/AI-ML-API-FF6B6B?style=flat-square">
+      <img src="https://img.shields.io/badge/Ghost%20of%20Tsushima-Platinum-3498DB?style=flat-square" />
+      <br/>
+      <img src="https://img.shields.io/badge/PES%202021-Champion-27AE60?style=flat-square" />
     </td>
-    <td align="center" width="200">
-      <img src="https://media.giphy.com/media/fynAG6TbX5ffd2nLcG/giphy.gif" width="80">
+    <td align="center" width="300">
+      <h3>🎲 Casual Games</h3>
+      <img src="https://media.giphy.com/media/3o7aD2scL0VNbYZ8i4/giphy.gif" width="120" height="90">
       <br/>
-      <strong>گیمینگ</strong>
+      <img src="https://img.shields.io/badge/Minecraft-Builder-62B47A?style=flat-square" />
       <br/>
-      <img src="https://img.shields.io/badge/PC-Console-Mobile-9B59B6?style=flat-square">
+      <img src="https://img.shields.io/badge/Stardew%20Valley-Farmer-8E44AD?style=flat-square" />
+      <br/>
+      <img src="https://img.shields.io/badge/Among%20Us-Impostor-FF6B6B?style=flat-square" />
     </td>
   </tr>
 </table>
 
 </div>
 
-<!-- ابزارهای مورد علاقه -->
+<br/>
+
+<!-- Contact Section -->
 <div align="center">
 
-## 💻 تکنولوژی‌های مورد علاقه
+## 📫 Connect With Me
 
-<!-- ابزارهای متحرک -->
-<p>
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
-<!-- کنسول‌های گیمینگ -->
-<p>
-  <img src="https://img.shields.io/badge/PC_Gaming-Expert-FFD700?style=for-the-badge&logo=pcgaming&logoColor=black" />
-  <img src="https://img.shields.io/badge/Hardware-Master-E67E22?style=for-the-badge&logo=hardware&logoColor=white" />
-</p>
-
-</div>
-
-<!-- ارتباطات با افکت -->
-<div align="center">
-
-## 📫 ارتباط با من
-
-<!-- دکمه‌های متحرک -->
+<!-- Animated Contact Buttons -->
 <p>
   <a href="mailto:mostafa77nilforoushan@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black&color=D14836" />
@@ -145,45 +217,39 @@
   </a>
 </p>
 
-<!-- افکت موشک -->
+<!-- Call to Action -->
 <p>
   <a href="https://github.com/Mosimosia?tab=repositories">
-    <img src="https://img.shields.io/badge/مشاهده_پروژه‌ها-روی_اینجا_کلیک_کن-FF6B6B?style=for-the-badge&logo=rocket&logoColor=white" />
+    <img src="https://img.shields.io/badge/Explore_My_Projects-Click_Here-FF6B6B?style=for-the-badge&logo=rocket&logoColor=white" />
   </a>
 </p>
 
 </div>
 
-<!-- مارپیچ پایانی -->
-<div align="center">
-
-## 🎮 در حال حاضر...
-
-<!-- بازی فعلی -->
-<p>
-  <img src="https://img.shields.io/badge/در_حال_بازی-Call_of_Duty_Warzone-1abc9c?style=for-the-badge&logo=game&logoColor=white" />
-  <img src="https://img.shields.io/badge/ساعت_بازی-حرفه_ای-e74c3c?style=for-the-badge&logo=clock&logoColor=white" />
-</p>
-
-<!-- افکت پایانی -->
 <br/>
 
+<!-- Footer -->
+<div align="center">
+
+<!-- Snake Animation -->
 ![Snake animation](https://github.com/Mosimosia/Mosimosia/blob/output/github-contribution-grid-snake.svg)
 
 <br/>
 
-<!-- نقل قول متحرک -->
+<!-- Animated Quote -->
 <div>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
 
 <br/>
 
-<!-- فوتر موجی -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:ff6b6b,50:4834d4,100:130f40&height=100&section=footer&animation=twinkling)
+<!-- Animated Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b6b,30:4834d4,60:130f40,90:00b894&height=100&section=footer&animation=twinkling" />
 
-**💡 "کد بزن، بازی کن، دنیا رو فتح کن!"**
+<br/>
 
-⭐️ **اگر خفن بود، ستاره بدید!**
+**💡 "Code, Game, Conquer the World!"**
+
+⭐️ **From [Mosimosia](https://github.com/Mosimosia) with ❤️**
 
 </div>
