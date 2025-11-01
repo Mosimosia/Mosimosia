@@ -9,7 +9,7 @@
 <!-- Typing Animation -->
 <h1>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-  Hi, I'm Mostafa Nilforoushan
+  Hi, I'm Mostafa 
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
 </h1>
 
