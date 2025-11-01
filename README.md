@@ -231,8 +231,8 @@
 <!-- Footer -->
 <div align="center">
 
-<!-- Snake Animation -->
-![Snake animation](https://github.com/Mosimosia/Mosimosia/blob/output/github-contribution-grid-snake.svg)
+<!-- Animated Gaming Footer -->
+<img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake.svg" width="100%" />
 
 <br/>
 
@@ -242,8 +242,7 @@
 </div>
 
 <br/>
-<!-- Snake Animation -->
-![Snake animation](https://github.com/Mosimosia/Mosimosia/blob/output/github-contribution-grid-snake.svg)
+
 <!-- Animated Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b6b,30:4834d4,60:130f40,90:00b894&height=100&section=footer&animation=twinkling" />
 
